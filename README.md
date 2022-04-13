@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Melody Chepkorir
 
-<!--
-**melodytowett/melodytowett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About Me
 - 🔭 I’m currently working on Building my skills in fullstack web development.
@@ -12,4 +10,4 @@ About Me
 - 📫 How to reach me: Email melodytowett99@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
